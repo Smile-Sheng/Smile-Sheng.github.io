@@ -1336,29 +1336,6 @@ section.lazy-placeholder:after {
   -webkit-transition: 0.2s background ease-in-out;
   transition: 0.2s background ease-in-out;
 }
-.cid-ti08fRVDMv {
-  background: #ffffff;
-}
-.cid-ti08fRVDMv .image-block {
-  margin: auto;
-  width: 100% !important;
-}
-.cid-ti08fRVDMv .mbr-figure {
-  margin: 0 auto;
-}
-.cid-ti08fRVDMv figcaption {
-  position: relative;
-}
-.cid-ti08fRVDMv figcaption div {
-  position: absolute;
-  bottom: 0;
-  width: 100%;
-}
-@media (max-width: 768px) {
-  .cid-ti08fRVDMv .image-block {
-    width: 100% !important;
-  }
-}
 .cid-ti5EUwRn8D {
   padding-top: 30px;
   padding-bottom: 0px;
