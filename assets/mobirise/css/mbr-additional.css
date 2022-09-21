@@ -1415,42 +1415,8 @@ section.lazy-placeholder:after {
   color: #efefef;
   text-align: center;
 }
-.cid-ti6MsuA9pn {
-  padding-top: 5rem;
-  padding-bottom: 0rem;
-  background-color: #232323;
-}
-.cid-ti6MsuA9pn p {
-  color: #767676;
-}
-.cid-ti6MsuA9pn .item:focus,
-.cid-ti6MsuA9pn span:focus {
-  outline: none;
-}
-.cid-ti6MsuA9pn .item {
-  padding-bottom: 3rem;
-  cursor: pointer;
-}
-.cid-ti6MsuA9pn .item-wrapper {
-  position: relative;
-}
-.cid-ti6MsuA9pn .item-btn,
-.cid-ti6MsuA9pn h4,
-.cid-ti6MsuA9pn h5 {
-  margin: 0;
-}
-.cid-ti6MsuA9pn .item-content {
-  padding-top: 2rem;
-}
-.cid-ti6MsuA9pn item-text {
-  color: #ffffff;
-  text-align: center;
-}
-.cid-ti6MsuA9pn .item-title {
-  color: #ffffff;
-}
 .cid-ti5Pe7hE75 {
-  padding-top: 60px;
+  padding-top: 45px;
   padding-bottom: 75px;
   background-color: #232323;
 }
